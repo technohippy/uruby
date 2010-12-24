@@ -1,0 +1,2 @@
+Fixnum = nil
+1 + 1
